@@ -115,7 +115,7 @@ int display_help(sh_t *data)
  * @data: a pointer to the data structure
  *
  * Return: (Success) 0 is returned
- * ------- (Fail) negative number will returned
+ * ------- (Fail) negative number will be returned
  */
 
 int handle_builtin(sh_t *data)
